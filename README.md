@@ -13,12 +13,13 @@ The course is designed to provide students with a solid understanding of the the
 This repository contains all the projects and assignments completed during the course. Each project is contained in a separate folder, with its own README file explaining the purpose, implementation details, and expected output.
 
 The assignments and projects cover a wide range of topics, such as:
--Linked lists
--Stacks and Queues
--Trees
--Graphs
--Sorting algorithms
--Search algorithms
+- Linked lists
+- Stacks and Queues
+- Trees
+- Graphs
+- Sorting algorithms
+- Search algorithms
+
 All projects are implemented in C++, and some may include additional libraries or dependencies.
 
 ## How to Use This Repository
