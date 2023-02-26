@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1567737106 source:c:\users\jooj\desktop\lab 3 dados\lab3.c
+	"lab3.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1567735878 c:\users\jooj\desktop\lab 3 dados\lab3.h
+
+1567734536 source:c:\users\jooj\desktop\lab 3 dados\main.c
+	"lab3.h"
+	<limits.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

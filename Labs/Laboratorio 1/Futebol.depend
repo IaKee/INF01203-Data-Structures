@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566867412 source:c:\users\jooj\desktop\trabalho dados\futebol\futebol.c
+	"futebol.h"
+
+1566867312 source:c:\users\jooj\desktop\trabalho dados\futebol\main.c
+	"futebol.h"
+
+1566866932 c:\users\jooj\desktop\trabalho dados\futebol\futebol.h
+	<stdio.h>
+	<string.h>
+

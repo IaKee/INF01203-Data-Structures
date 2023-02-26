@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572315612 source:d:\documentos\escola\ufrgs\terceiro semestre\inf01203 estruturas de dados - turma c\laboratorio 6\tad abp\abp.c
+	"abp.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1572315534 source:d:\documentos\escola\ufrgs\terceiro semestre\inf01203 estruturas de dados - turma c\laboratorio 6\tad abp\main.c
+	"abp.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1572308446 d:\documentos\escola\ufrgs\terceiro semestre\inf01203 estruturas de dados - turma c\laboratorio 6\tad abp\abp.h
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1573003254 source:c:\users\jooj\desktop\trabalho final dados\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"trab.h"
+
+1573002407 c:\users\jooj\desktop\trabalho final dados\trab.h
+
+1572915343 source:c:\users\jooj\desktop\trabalho final dados\trab.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"trab.h"
+
+1572962326 source:e:\trabalho final dados\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"trab.h"
+
+1572962278 e:\trabalho final dados\trab.h
+
+1572962512 source:e:\trabalho final dados\trab.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"trab.h"
+
+1575742683 source:d:\documentos\escola\ufrgs\terceiro semestre\inf01203 estruturas de dados - turma c\trabalho final dados\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"trab.h"
+
+1575743014 d:\documentos\escola\ufrgs\terceiro semestre\inf01203 estruturas de dados - turma c\trabalho final dados\trab.h
+
+1575743635 source:d:\documentos\escola\ufrgs\terceiro semestre\inf01203 estruturas de dados - turma c\trabalho final dados\trab.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"trab.h"
+

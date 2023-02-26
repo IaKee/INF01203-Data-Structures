@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1568647931 source:c:\users\jooj\desktop\lab 4 - dados\lab 4 - dados\main.c
+	"lab4.h"
+
+1568647234 c:\users\jooj\desktop\lab 4 - dados\lab 4 - dados\lab4.h
+
+1568678478 source:c:\users\jooj\desktop\lab 4 - dados\lab 4 - dados\lab4.c
+	"lab4.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1568688462 source:c:\users\jooj\desktop\lab 4 - dados\main.c
+	"lab4.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1568686509 c:\users\jooj\desktop\lab 4 - dados\lab4.h
+
+1568688832 source:c:\users\jooj\desktop\lab 4 - dados\lab4.c
+	"lab4.h"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
